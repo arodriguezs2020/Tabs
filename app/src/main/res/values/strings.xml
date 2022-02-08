@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="esta_imagen_pertenece_al_tab1">Esta imagen pertenece al Tab1</string>
+    <string name="esta_imagen_pertenece_al_tab2">Esta imagen pertenece al Tab2</string>
+    <string name="esta_imagen_pertenece_al_tab3">Esta imagen pertenece al tab3</string>
+</resources>

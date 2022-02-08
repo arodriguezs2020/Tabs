@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="esta_imagen_pertenece_al_tab1">Esta imagen pertenece al Tab1</string>
+    <string name="esta_imagen_pertenece_al_tab2">Esta imagen pertenece al Tab2</string>
+    <string name="esta_imagen_pertenece_al_tab3">Esta imagen pertenece al tab3</string>
+</resources>
